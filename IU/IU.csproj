@@ -114,6 +114,12 @@
     <Compile Include="FDepartamento.Designer.cs">
       <DependentUpon>FDepartamento.cs</DependentUpon>
     </Compile>
+    <Compile Include="FEnvios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FEnvios.Designer.cs">
+      <DependentUpon>FEnvios.cs</DependentUpon>
+    </Compile>
     <Compile Include="FMunicipio.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -126,6 +132,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FPaquetes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPaquetes.Designer.cs">
+      <DependentUpon>FPaquetes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FClientes.resx">
@@ -134,11 +146,17 @@
     <EmbeddedResource Include="FDepartamento.resx">
       <DependentUpon>FDepartamento.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FEnvios.resx">
+      <DependentUpon>FEnvios.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FMunicipio.resx">
       <DependentUpon>FMunicipio.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPaquetes.resx">
+      <DependentUpon>FPaquetes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

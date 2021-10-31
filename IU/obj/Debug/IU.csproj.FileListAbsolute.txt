@@ -46,3 +46,5 @@ C:\Users\Josué\Desktop\ProyectoCristel\Parcial2SerieB\IU\bin\Debug\DAL.pdb
 C:\Users\Josué\Desktop\ProyectoCristel\Parcial2SerieB\IU\bin\Debug\DAL.dll.config
 C:\Users\Josué\Desktop\ProyectoCristel\Parcial2SerieB\IU\obj\Debug\IU.FDepartamento.resources
 C:\Users\Josué\Desktop\ProyectoCristel\Parcial2SerieB\IU\obj\Debug\IU.FMunicipio.resources
+C:\Users\Josué\Desktop\ProyectoCristel\Parcial2SerieB\IU\obj\Debug\IU.FEnvios.resources
+C:\Users\Josué\Desktop\ProyectoCristel\Parcial2SerieB\IU\obj\Debug\IU.FPaquetes.resources
